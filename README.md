@@ -34,7 +34,7 @@ packages <- c(
     'pheatmap', 
     'knitr', 
     'rmarkdown',  
-    'ssurvminer',  
+    'survminer',  
     'survival', 
     'tidyverse', 
     'useful', 
